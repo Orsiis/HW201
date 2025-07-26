@@ -1,0 +1,61 @@
+body {
+    background-image: url(pages/pictures/space_back.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 300px;
+    text-shadow: 2px 2px 5px white;
+    font-family: 'Lucida Console';
+    text-transform: uppercase;
+    -webkit-text-stroke: 0.5px white;
+}
+
+p {
+    text-shadow: 2px 2px 5px white;
+    padding: 5px;
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #8c8c96;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+.buttons-center {
+    padding-top: 2%;
+    text-align: center;
+}
+
+.galleryheader {
+    margin-top: 20px;
+}
+
+#rcorners {
+    -webkit-text-stroke: 0.2px black;
+    -webkit-text-fill-color: white;
+    border-radius: 15px;
+    background: #21226b;
+    padding: 10px;
+}
+
+#email{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: blue;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: black;
+}
+
+table{
+    margin: 0 auto;
+}
